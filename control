@@ -1,0 +1,9 @@
+Package: com.gilshahar7.top3kb
+Name: Top3KB
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Switch between top 3 keyboards
+Maintainer: gilshahar7 <gilshahardex99@gmail.com>
+Author: gilshahar7 <gilshahardex99@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
